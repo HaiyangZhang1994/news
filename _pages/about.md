@@ -1,23 +1,18 @@
 ---
 permalink: / title: "About me"
 excerpt: "About me"
-author_profile: true redirect_from:
-
-- /about/
-- /about.html
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 
 ---
 
-About
-=====
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the
-   top right.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch").
-   Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also
-   see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set
-   up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https:
-   //[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I’m a PhD Candidate in the Department of Computer Science at the George Washington University (GWU) doing my research under supervision of [Dr. Mona Diab](https://www.linkedin.com/in/mona-diab-55946614/) and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). 
+My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP). My current research focuses on providing an analytical framework for understanding how individuals make various decisions on social media, including spread of mis/disinformation. I am also interested in Commonsense Reasoning and Story Understanding in natural language. I work on developing NLP models to extract causal relations, explicit or implicit, in discourse. My goal is to leverage these models in enabling machines to better understand stories and find causal chains among events in a story.
+* Email: phosseini _at_ gwu.edu 
+### News & updates
+* Our paper ParsiNLU: A Suite of Language Understanding Challenges for Persian, the result of a great collaborative work, is accepted to the Transactions of the Association for Computational Linguistics (TACL), 2021. [Code+Data]
+* I received the Linguistics Data Consortium's (LDC) Fall 2020 Data Scholarship for my research in automatic detection of causal relations in text. 
+* I received the award for Best CS Graduate Research at Annual R&D Showcase at School of Engineering (SEAS) at the George Washington University (GWU). 
+* We received the Social Media and Democracy Research Grant from The Social Science Research Council (SSRC) for our project on "Identifying Best Practices to Correct Misinformation on Facebook". 
