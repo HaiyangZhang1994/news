@@ -9,8 +9,8 @@ author_profile: true redirect_from:
 ---
 
 I’m a PhD Candidate in the Department of Computer Science at the George Washington University (GWU) doing my research
-under supervision of <a href="https://www.linkedin.com/in/mona-diab-55946614/">Dr. Mona Diab</a>
-and <a href="https://www.seas.gwu.edu/david-broniatowski">Dr. David Broniatowski</a>.
+under supervision of [Dr. Mona Diab](https://www.linkedin.com/in/mona-diab-55946614/)
+and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski).
 
 My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP)
 . My current research focuses on providing an analytical framework for understanding how individuals make various
