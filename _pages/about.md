@@ -9,9 +9,9 @@ redirect_from:
 
 ---
 
-I’m a final year PhD Candidate in the Department of Computer Science at the George Washington University (GWU) doing my research under supervision of [Dr. Mona Diab](https://www.linkedin.com/in/mona-diab-55946614/) and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). 
+I’m currently a Venture Fellow at Camford Capital where I work with an interdisciplinary team on several internal innovative initiatives related to Artificial Intelligence (AI) and Natural Language Processing (NLP) in the biomedical, clinical, and biological domains (Biologics and RNA).
 
-My main areas of interest are Artificial intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP). My current research focuses on providing an analytical framework for understanding how individuals make various decisions on social media, including spread of mis/disinformation. I am also interested in Commonsense Reasoning and Story Understanding in natural language. I work on developing NLP models to extract causal relations, explicit or implicit, in discourse. My goal is to leverage these models in enabling machines to better understand stories and find causal chains among events in a story.
+Prior to joining Camford Capital, I received my Ph.D. in Computer Science at The George Washington University (GWU) under the supervision of [Dr. Mona Diab](https://www.linkedin.com/in/mona-diab-55946614/) and [Dr. David Broniatowski](https://www.seas.gwu.edu/david-broniatowski). My main areas of research were AI and NLP, and my dissertation was on “Advancing Identification of Causal Relations in Natural Language”. I worked on several projects including building large language models with commonsense reasoning, causal relation understanding capabilities, and analytical frameworks for understanding how individuals make various decisions on social media, including the spread of disinformation, disinformation, and false news.
 
 ## News & updates
 * <a class="btn btn-success btn-sm text-decoration-none" href="https://github.com/phosseini/GisPy" role="button">GisPy Code</a> Our paper [GisPy: A Tool for Measuring Gist Inference Score in Text](https://arxiv.org/abs/2205.12484) is accepted to the 4th Workshop on Narrative Understanding @ NAACL 2022.
