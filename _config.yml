@@ -82,11 +82,11 @@ analytics:
 author:
   name: "Mike Zhang M.S."
   avatar: "pedram-new.jpg"
-  bio: "front-end engineer at Novo Vivo"
+  bio: "Front-End Engineer at Novo Vivo"
   location: "San Diego, CA"
   employer:
   pubmed:
-  googlescholar: ""
+  googlescholar: 
   email: "haiyang@novovivo.io"
   researchgate:
   uri:
@@ -96,20 +96,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "HaiyangZhang1994"
+  github:
   google_plus:
   keybase:
   instagram:
   impactstory:
   lastfm:
-  linkedin: "haiyangzhang"
+  linkedin: "https://www.linkedin.com/in/haiyang-zhang-122687135"
   orcid:
   pinterest:
   soundcloud:
-  stackoverflow: ""
+  stackoverflow:
   steam:
   tumblr:
-  twitter: "PedramHosseini"
+  twitter:
   vine:
   weibo:
   xing:
