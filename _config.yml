@@ -11,9 +11,9 @@ title: "Mike Zhang"
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
-url: https://phosseini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://haiyangzhang1994.github.io/news/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "phosseini/phosseini.github.io"
+repository: "HaiyangZhang1994/news"
 teaser:  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name: "Mike Zhang M.S."
-  avatar: "pedram-new.jpg"
+  avatar: "haiyang-zhang.jpg"
   bio: "Front-End Engineer at Novo Vivo"
   location: "San Diego, CA"
   employer:
