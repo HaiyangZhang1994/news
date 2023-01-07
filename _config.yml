@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Pedram Hosseini"
+title: "Mike Zhang"
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Pedram Hosseini, Ph.D."
+  name: "Mike Zhang M.S."
   avatar: "pedram-new.jpg"
-  bio: "Venture Fellow at Camford Capital"
+  bio: "front-end engineer at Novo Vivo"
   location: "San Diego, CA"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=yeKMUQYAAAAJ&hl=en&authuser=1"
-  email: "pedram@camford.vc"
+  googlescholar: ""
+  email: "haiyang@novovivo.io"
   researchgate:
   uri:
   bitbucket:
@@ -96,17 +96,17 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "phosseini"
+  github: "HaiyangZhang1994"
   google_plus:
   keybase:
   instagram:
   impactstory:
   lastfm:
-  linkedin: "pedramhosseini"
+  linkedin: "haiyangzhang"
   orcid:
   pinterest:
   soundcloud:
-  stackoverflow: "2347063/pedram"
+  stackoverflow: ""
   steam:
   tumblr:
   twitter: "PedramHosseini"
