@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I’m currently a front-end engineer at [Lavita](https://www.lavita.ai/) who focus on building website and APP for several medical platform and crypto projects
+I’m currently the front-end tech lead at [Lavita](https://www.lavita.ai/) who focus on building website and APP for several medical platform and crypto projects
 
 ### Experience
 * Working with [Lavita](https://www.lavita.ai/), a blockchain-AI based next generation healthcare technology company based in Singapore aiming to revolutionize the way 8 billion individuals around the world diagnose, analyze, and treat health and genomic issues, leading to earlier intervention and improved outcome 2022.
